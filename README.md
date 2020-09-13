@@ -1,4 +1,6 @@
-# TeamFalcon
+# Falcon
+
+A revolutionary optimization tool to book your medical appointments and get a preliminary diagnosis. The Pandemic caused long waitlists and difficulty booking appointments. Falcon solves this issue by providing a contactless process, minimize wait times in local clinics and getting a preliminary diagnosis based off your symptoms. 
 
 In the root directory, just type:
 
