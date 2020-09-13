@@ -1,0 +1,29 @@
+.progress-bar-div {
+  position: absolute;
+  bottom: calc(3vh);
+  width: 100%;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+.progress-bar-div-center {
+  width: 80%;
+}
+
+.progress {
+  background-color: #DCDCDC !important;
+}
+
+.progress-bar {
+  background-color: #789E9E !important;
+}
+
+/* The logo placement */
+.logo-div {
+  width: 100%;
+  display: flex;
+  justify-content: center;  
+}
